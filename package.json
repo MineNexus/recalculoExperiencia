@@ -1,0 +1,15 @@
+{
+  "name": "recalculoxp",
+  "version": "1.0.0",
+  "description": "Recalculo experiência minenexus",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Soldado_08",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {}
+}
